@@ -1,0 +1,17 @@
+html,body{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+.head{
+	height: 120px;
+	/*background-color: red;*/
+}
+.head a{
+	display: block;
+	height: 120px;
+	background:url("xiaomi.jpg");
+	background-position: 0 0;
+}
